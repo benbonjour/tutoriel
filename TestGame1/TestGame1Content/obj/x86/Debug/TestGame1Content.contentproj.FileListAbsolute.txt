@@ -1,0 +1,1 @@
+c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1Content\obj\x86\Debug\TestGame1Content.contentprojResolveAssemblyReference.cache

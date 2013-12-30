@@ -1,0 +1,8 @@
+c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\TestGame1.exe
+c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\TestGame1.pdb
+c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\obj\x86\Debug\TestGame1.csprojResolveAssemblyReference.cache
+c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\obj\x86\Debug\TestGame1.exe
+c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\obj\x86\Debug\TestGame1.pdb
+C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\circle.xnb
+C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\square.xnb
