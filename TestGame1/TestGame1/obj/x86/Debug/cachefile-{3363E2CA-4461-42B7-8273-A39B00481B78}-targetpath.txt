@@ -1,2 +1,8 @@
 Content\circle.xnb
 Content\square.xnb
+Content\b_daisy.xnb
+Content\accept.xnb
+Content\accept.wma
+Content\drumBeat.xnb
+Content\drumBeat.wma
+Content\instructions.xnb

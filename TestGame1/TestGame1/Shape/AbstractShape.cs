@@ -38,5 +38,15 @@ namespace TestGame1
         {
             m_game.getSpriteBatch().Draw(m_shape, m_position, Color.White);
         }
+
+        public int getWidth() 
+        {
+            return m_shape.Width;
+        }
+
+        public int getHeight() 
+        {
+            return m_shape.Height;
+        }
     }
 }

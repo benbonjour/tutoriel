@@ -19,6 +19,44 @@
       <Output>C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\square.xnb</Output>
       <Time>2013-12-29T12:05:57.0825461-04:00</Time>
     </Item>
+    <Item>
+      <Source>b_daisy.jpg</Source>
+      <Name>b_daisy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\b_daisy.xnb</Output>
+      <Time>2013-12-29T22:04:21.7059181-04:00</Time>
+    </Item>
+    <Item>
+      <Source>accept.mp3</Source>
+      <Name>accept</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\accept.xnb</Output>
+      <Extra>C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\accept.wma</Extra>
+      <Time>2013-12-29T22:44:57.4381292-04:00</Time>
+    </Item>
+    <Item>
+      <Source>drumBeat.mp3</Source>
+      <Name>drumBeat</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\drumBeat.xnb</Output>
+      <Extra>C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\drumBeat.wma</Extra>
+      <Time>2013-12-29T23:29:40.5040753-04:00</Time>
+    </Item>
+    <Item>
+      <Source>instructions.png</Source>
+      <Name>instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\instructions.xnb</Output>
+      <Time>2013-12-30T00:12:40.5736518-04:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

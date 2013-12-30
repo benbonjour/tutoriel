@@ -6,3 +6,9 @@ c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\Test
 c:\users\benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\obj\x86\Debug\TestGame1.pdb
 C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\circle.xnb
 C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\square.xnb
+C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\b_daisy.xnb
+C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\accept.xnb
+C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\accept.wma
+C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\drumBeat.xnb
+C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\drumBeat.wma
+C:\Users\Benjamin\documents\visual studio 2013\Projects\TestGame1\TestGame1\TestGame1\bin\x86\Debug\Content\instructions.xnb

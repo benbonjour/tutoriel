@@ -26,5 +26,15 @@ namespace TestGame1
             m_position.X = p_x;
             m_position.Y = p_y;
         }
+
+        public void addX(float p_x)
+        {
+            m_position.X += p_x;
+        }
+        public void addY(float p_y) 
+        {
+            m_position.Y += p_y;
+        }
+
     }
 }
